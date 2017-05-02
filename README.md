@@ -11,3 +11,8 @@ Let URL to Picture in python
 
 URL中，图片保存的命名规则跟图像的唯一ID一致。
 
+By Matt
+
+2017-5-2
+
+BLOG:http://blog.csdn.net/sinat_26917383
